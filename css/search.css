@@ -1,0 +1,23 @@
+#local-search-result {
+    scroll:auto;
+    overflow:auto;
+    max-height:3in;
+  }
+  
+  ul.search-result-list {
+    padding-left: 10px;
+    background-color: #f5f5f5
+  }
+  
+  a.search-result-title {
+    font-weight: bold;
+  }
+  
+  p.search-result {
+    color:#555;
+  }
+  
+  em.search-keyword {
+    border-bottom: 1px dashed #4088b8;
+    font-weight: bold;
+  }
